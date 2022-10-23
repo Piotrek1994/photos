@@ -5,22 +5,22 @@ let photos = [
 	{
 		url: 'https://pixabay.com/pl/photos/morze-fale-natura-lekki-ocean-7484743/',
 		urlCopy: 'https://pixabay.com/pl/photos/morze-fale-natura-lekki-ocean-7484743/',
-		addingPhotoDate: '14.01.2020',
-		downloadDate: '14.01.2022',
+		addingPhotoDate: '10.05.2010',
+		downloadDate: '14.01.2015',
 		id: 1
 	},
 	{
-		url: 'https://pixabay.com/pl/photos/morze-fale-natura-lekki-ocean-7484743/',
-		urlCopy: 'https://pixabay.com/pl/photos/morze-fale-natura-lekki-ocean-7484743/',
-		addingPhotoDate: '14.01.2020',
-		downloadDate: '14.01.2022',
+		url: 'https://www.istockphoto.com/pl/zdj%C4%99cie/ocean-wave-gm104669275-13199364',
+		urlCopy: 'https://www.istockphoto.com/pl/zdj%C4%99cie/ocean-wave-gm104669275-13199364',
+		addingPhotoDate: '01.01.2000',
+		downloadDate: '12.01.2002',
 		id: 2
 	},
 	{
-		url: 'https://pixabay.com/pl/photos/morze-fale-natura-lekki-ocean-7484743/',
-		urlCopy: 'https://pixabay.com/pl/photos/morze-fale-natura-lekki-ocean-7484743/',
-		addingPhotoDate: '14.01.2020',
-		downloadDate: '14.01.2022',
+		url: 'https://www.istockphoto.com/pl/zdj%C4%99cie/delektuj%C4%85c-si%C4%99-koktajlem-przy-basenie-gm950688808-259497731',
+		urlCopy: 'https://www.istockphoto.com/pl/zdj%C4%99cie/delektuj%C4%85c-si%C4%99-koktajlem-przy-basenie-gm950688808-259497731',
+		addingPhotoDate: '12.05.2010',
+		downloadDate: '25.08.2012',
 		id: 3
 	}
 ]
