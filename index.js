@@ -10,6 +10,7 @@ app.use(bodyparser.json())
 app.use('/photos', photosRoutes)
 
 app.get('/', (req, res) => res.send('hallo!')
+
 )
 
 app.listen(PORT, () => {
