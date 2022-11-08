@@ -16,3 +16,6 @@ app.get('/', (req, res) => res.send('hallo!')
 app.listen(PORT, () => {
 	console.log(`Server runing on port: https://localhost:${PORT}`)
 })
+
+
+//komentarz 

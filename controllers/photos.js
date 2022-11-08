@@ -82,3 +82,4 @@ export const deletePhoto = (req, res) => {
 	res.send(`Photo deleteed with ${id} from database`)
 }
 
+//komentarz 

@@ -20,3 +20,5 @@ router.get('/download/status/:id', getPhotoDownloadStatus)
 
 
 export default router
+
+//komentarz 
